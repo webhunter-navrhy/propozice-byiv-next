@@ -21,6 +21,16 @@
 <priority>0.7</priority>
 </url>
 <url>
+<loc>https://www.byiv.cz/by-iv-raspberry/</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://www.byiv.cz/by-iv-lime/</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://www.byiv.cz/eshop/novinky/</loc>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
