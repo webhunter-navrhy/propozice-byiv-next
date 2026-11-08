@@ -4,4 +4,4 @@ Disallow: /kosik/
 Disallow: /pokladna/
 Disallow: /objednavka/
 
-Sitemap: https://www.byiv.cz/sitemap.xml
+Sitemap: https://byiv.cz/sitemap.xml
