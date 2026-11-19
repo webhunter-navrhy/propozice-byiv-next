@@ -1,5 +1,36 @@
 [
  {
+  "slug": "luxusni-latexove-sako-bodyslim",
+  "nazev": "Luxusní latexové sako BODYSLIM",
+  "cena": 5590,
+  "puvodni": null,
+  "kategorie": "saka",
+  "rada": "Bodyslim",
+  "velikosti": [
+   "S",
+   "M"
+  ],
+  "material": "Pružný latex",
+  "popis": [
+   "Luxusní vypasované z pružného latexu s vycpávkami."
+  ],
+  "fotky": [
+   "img/uploads/2026-11/luxusni-latexove-sako-bodyslim-ha3vcp.webp",
+   "img/uploads/2026-11/luxusni-latexove-sako-bodyslim-2eehqd.webp",
+   "img/uploads/2026-11/luxusni-latexove-sako-bodyslim-089jka.webp",
+   "img/uploads/2026-11/luxusni-latexove-sako-bodyslim-z4iw81.webp",
+   "img/uploads/2026-11/luxusni-latexove-sako-bodyslim-vvtua3.webp",
+   "img/uploads/2026-11/luxusni-latexove-sako-bodyslim-ay6pym.webp",
+   "img/uploads/2026-11/luxusni-latexove-sako-bodyslim-qry5f7.webp",
+   "img/uploads/2026-11/luxusni-latexove-sako-bodyslim-daidff.webp",
+   "img/uploads/2026-11/luxusni-latexove-sako-bodyslim-w25n2u.webp"
+  ],
+  "novinka": true,
+  "vyprodej": false,
+  "vyprodano": false,
+  "poradi": 0
+ },
+ {
   "slug": "kalhoty-bodyslim-s-krajkou-rozsirene",
   "nazev": "Kalhoty Bodyslim s krajkou – rozšířené",
   "cena": 2690,
@@ -27,7 +58,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 0
+  "poradi": 1
  },
  {
   "slug": "sako-bodyslim-s-krajkou-cerne",
@@ -58,7 +89,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 1
+  "poradi": 2
  },
  {
   "slug": "sukne-bodyslim-cerna",
@@ -84,7 +115,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 2
+  "poradi": 3
  },
  {
   "slug": "kalhoty-bodyslim-s-krajkou",
@@ -115,7 +146,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 3
+  "poradi": 4
  },
  {
   "slug": "halenka-s-krajkou-tessuti-new",
@@ -145,7 +176,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 4
+  "poradi": 5
  },
  {
   "slug": "halenka-rolak-s-krajkou-tessuti-new",
@@ -176,7 +207,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 5
+  "poradi": 6
  },
  {
   "slug": "leginy-s-krajkou-tessuti",
@@ -208,7 +239,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 6
+  "poradi": 7
  },
  {
   "slug": "overal-tessuti-se-zipem",
@@ -265,7 +296,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 7
+  "poradi": 8
  },
  {
   "slug": "overal-bodyslim-s-rasenim",
@@ -343,7 +374,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 8
+  "poradi": 9
  },
  {
   "slug": "nove-leginy-tessuti",
@@ -375,7 +406,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 9
+  "poradi": 10
  },
  {
   "slug": "sako-tessuti-cerne",
@@ -406,7 +437,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 10
+  "poradi": 11
  },
  {
   "slug": "mansestr-kimono-bezove",
@@ -431,7 +462,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 11
+  "poradi": 12
  },
  {
   "slug": "glasgow-kimono-cerne",
@@ -459,7 +490,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 12
+  "poradi": 13
  },
  {
   "slug": "kosile-denim-s-knofliky-bezova",
@@ -489,7 +520,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 13
+  "poradi": 14
  },
  {
   "slug": "kalhoty-denim-s-lemem-bezove",
@@ -520,7 +551,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 14
+  "poradi": 15
  },
  {
   "slug": "bunda-slimweist-denim-bezova",
@@ -552,7 +583,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 15
+  "poradi": 16
  },
  {
   "slug": "sukne-denim-bezova",
@@ -580,7 +611,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 16
+  "poradi": 17
  },
  {
   "slug": "sukne-denim-cerna",
@@ -608,7 +639,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 17
+  "poradi": 18
  },
  {
   "slug": "sako-denim-s-vazanim-cerne",
@@ -640,7 +671,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 18
+  "poradi": 19
  },
  {
   "slug": "denim-kimono-modre",
@@ -668,7 +699,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 19
+  "poradi": 20
  },
  {
   "slug": "denim-kimono-cerne",
@@ -696,7 +727,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 20
+  "poradi": 21
  },
  {
   "slug": "krivak-denim",
@@ -728,7 +759,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 21
+  "poradi": 22
  },
  {
   "slug": "sako-denim-s-vazanim",
@@ -760,7 +791,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 22
+  "poradi": 23
  },
  {
   "slug": "bunda-slimweist-denim",
@@ -792,7 +823,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 23
+  "poradi": 24
  },
  {
   "slug": "bomber-tyl-diorko-s-kapuci",
@@ -822,7 +853,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 24
+  "poradi": 25
  },
  {
   "slug": "bundicka-slimwaist-sateen-amalfi",
@@ -852,7 +883,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 25
+  "poradi": 26
  },
  {
   "slug": "bundicka-slimwaist-sateen-cherries",
@@ -882,7 +913,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 26
+  "poradi": 27
  },
  {
   "slug": "ve",
@@ -912,7 +943,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 27
+  "poradi": 28
  },
  {
   "slug": "sateen-bomber-s-lemem-zluty",
@@ -940,7 +971,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 28
+  "poradi": 29
  },
  {
   "slug": "bundicka-slimwaist-s-kapuci-bodyslim-vinova",
@@ -964,7 +995,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 29
+  "poradi": 30
  },
  {
   "slug": "bundicka-slimwaist-diorka-s-kapuci",
@@ -992,7 +1023,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 30
+  "poradi": 31
  },
  {
   "slug": "bundicka-slimwaist-s-kapuci-amati-ruzova",
@@ -1018,7 +1049,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 31
+  "poradi": 32
  },
  {
   "slug": "bundicka-slimwaist-s-kapuci-amati",
@@ -1043,7 +1074,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 32
+  "poradi": 33
  },
  {
   "slug": "saty-denim-s-vazanim-cerne",
@@ -1073,7 +1104,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 33
+  "poradi": 34
  },
  {
   "slug": "gumicka-do-vlasu-logotrend-velur",
@@ -1095,7 +1126,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 34
+  "poradi": 35
  },
  {
   "slug": "ponozky-logotrend-by-iv-bile",
@@ -1123,7 +1154,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 35
+  "poradi": 36
  },
  {
   "slug": "ponozky-logotrend-s-autorskym-napisem-bile",
@@ -1149,7 +1180,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 36
+  "poradi": 37
  },
  {
   "slug": "kabelka-zelena",
@@ -1173,7 +1204,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 37
+  "poradi": 38
  },
  {
   "slug": "kopie-z-kabelka-fuksia",
@@ -1197,7 +1228,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 38
+  "poradi": 39
  },
  {
   "slug": "organizer-do-kabelky",
@@ -1220,7 +1251,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 39
+  "poradi": 40
  },
  {
   "slug": "plysova-kabelka",
@@ -1238,7 +1269,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 40
+  "poradi": 41
  },
  {
   "slug": "klobouk-zeleny",
@@ -1261,7 +1292,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 41
+  "poradi": 42
  },
  {
   "slug": "kopie-z-klobouk-fuksia",
@@ -1284,7 +1315,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 42
+  "poradi": 43
  },
  {
   "slug": "cepice-s-logem-a-bambuli-s-pravou-kozesinou-modra",
@@ -1306,7 +1337,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 43
+  "poradi": 44
  },
  {
   "slug": "cepice-s-logem-a-bambuli-s-pravou-kozesinou-bila",
@@ -1328,7 +1359,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 44
+  "poradi": 45
  },
  {
   "slug": "cepice-s-logem-a-bambuli-s-pravou-kozesinou-cerna",
@@ -1351,7 +1382,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 45
+  "poradi": 46
  },
  {
   "slug": "cepice-s-logem-a-bambuli-s-pravou-kozesinou-zelena",
@@ -1373,7 +1404,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 46
+  "poradi": 47
  },
  {
   "slug": "cepice-s-logem-a-bambuli-s-pravou-kozesinou-bezova",
@@ -1396,7 +1427,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 47
+  "poradi": 48
  },
  {
   "slug": "vesta-princess-denim-modra",
@@ -1428,7 +1459,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 48
+  "poradi": 49
  },
  {
   "slug": "kabat-princess-denim-modry",
@@ -1460,7 +1491,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 49
+  "poradi": 50
  },
  {
   "slug": "vesta-princess-denim-cerny",
@@ -1492,7 +1523,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 50
+  "poradi": 51
  },
  {
   "slug": "kabat-princess-denim-cerny",
@@ -1523,7 +1554,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 51
+  "poradi": 52
  },
  {
   "slug": "plysovy-kozisek-svetle-bezova-kostka",
@@ -1549,7 +1580,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 52
+  "poradi": 53
  },
  {
   "slug": "plysovy-kozisek-cerna-kostka",
@@ -1576,7 +1607,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 53
+  "poradi": 54
  },
  {
   "slug": "plysovy-kozisek-se-zipem-svetle-bezova-kostka",
@@ -1601,7 +1632,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 54
+  "poradi": 55
  },
  {
   "slug": "plysovy-kozisek-se-zipem-cerna-kostka",
@@ -1626,7 +1657,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 55
+  "poradi": 56
  },
  {
   "slug": "plysovy-kozisek-svetle-bezovy",
@@ -1651,7 +1682,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 56
+  "poradi": 57
  },
  {
   "slug": "plysovy-kozisek-cerny",
@@ -1676,7 +1707,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 57
+  "poradi": 58
  },
  {
   "slug": "plysovy-kozisek-se-zipem-cerny",
@@ -1701,7 +1732,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 58
+  "poradi": 59
  },
  {
   "slug": "kopie-z-plysovy-kozisek-se-zipem-cerny",
@@ -1725,7 +1756,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 59
+  "poradi": 60
  },
  {
   "slug": "vlneny-kabat-s-kapsami",
@@ -1751,7 +1782,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 60
+  "poradi": 61
  },
  {
   "slug": "kabat-beranek-zeleny1",
@@ -1776,7 +1807,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 61
+  "poradi": 62
  },
  {
   "slug": "kabat-beranek-zeleny",
@@ -1802,7 +1833,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 62
+  "poradi": 63
  },
  {
   "slug": "kabat-princess-royal-blue",
@@ -1833,7 +1864,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 63
+  "poradi": 64
  },
  {
   "slug": "vesta-princess-cerna",
@@ -1865,7 +1896,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 64
+  "poradi": 65
  },
  {
   "slug": "vesta-princess-cokoladova",
@@ -1897,7 +1928,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 65
+  "poradi": 66
  },
  {
   "slug": "sateen-kratasy-amalfi",
@@ -1925,7 +1956,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 66
+  "poradi": 67
  },
  {
   "slug": "sateen-kratasy-cherries-s-kapsami",
@@ -1953,7 +1984,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 67
+  "poradi": 68
  },
  {
   "slug": "kratasy-bodyslim-amati-hnede",
@@ -1981,7 +2012,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 68
+  "poradi": 69
  },
  {
   "slug": "sateen-kratasy-s-kapsami-zlute",
@@ -2009,7 +2040,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 69
+  "poradi": 70
  },
  {
   "slug": "kratasy-bodyslim-diorky",
@@ -2037,7 +2068,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 70
+  "poradi": 71
  },
  {
   "slug": "kratasy-diorky-sustak",
@@ -2065,7 +2096,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 71
+  "poradi": 72
  },
  {
   "slug": "bodyslim-punto-milano-kratasy-zelene",
@@ -2091,7 +2122,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 72
+  "poradi": 73
  },
  {
   "slug": "bodyslim-punto-milano-kratasy-modre",
@@ -2116,7 +2147,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 73
+  "poradi": 74
  },
  {
   "slug": "bodyslim-punto-milano-kratasy-ruzove",
@@ -2142,7 +2173,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 74
+  "poradi": 75
  },
  {
   "slug": "kratasy-amati-cerne1",
@@ -2170,7 +2201,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 75
+  "poradi": 76
  },
  {
   "slug": "sateen-kratasy-s-kapsami-ivory1",
@@ -2200,7 +2231,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 76
+  "poradi": 77
  },
  {
   "slug": "kratasy-amati-cerne",
@@ -2228,7 +2259,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 77
+  "poradi": 78
  },
  {
   "slug": "kratasy-amati-hnede",
@@ -2256,7 +2287,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 78
+  "poradi": 79
  },
  {
   "slug": "kratasy-amati-cernobile",
@@ -2285,7 +2316,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 79
+  "poradi": 80
  },
  {
   "slug": "kratasy-z-madeiry-fuksia1",
@@ -2314,7 +2345,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 80
+  "poradi": 81
  },
  {
   "slug": "kratasy-z-madeiry-fuksia",
@@ -2340,7 +2371,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 81
+  "poradi": 82
  },
  {
   "slug": "bodyslim-kratasy-biker-stribrna11",
@@ -2366,7 +2397,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 82
+  "poradi": 83
  },
  {
   "slug": "bodyslim-kratasy-biker-stribrna1",
@@ -2395,7 +2426,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 83
+  "poradi": 84
  },
  {
   "slug": "kopie-z-leginy-anticamel-tessuti-vinove",
@@ -2423,7 +2454,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 84
+  "poradi": 85
  },
  {
   "slug": "leginy-anticamel-tessuti-predprodej-na-objednavku",
@@ -2454,7 +2485,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 85
+  "poradi": 86
  },
  {
   "slug": "bodyslim-safari-leginy-leopard-hnedy",
@@ -2479,7 +2510,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 86
+  "poradi": 87
  },
  {
   "slug": "bodyslim-safari-leginy-leopard-zelenkave",
@@ -2506,7 +2537,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 87
+  "poradi": 88
  },
  {
   "slug": "leginy-sponovky-tessuti111",
@@ -2535,7 +2566,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 88
+  "poradi": 89
  },
  {
   "slug": "leginy-sponovky-tessuti11",
@@ -2565,7 +2596,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": true,
-  "poradi": 89
+  "poradi": 90
  },
  {
   "slug": "bodyslim-leginy-s-prositim-bordo1",
@@ -2591,7 +2622,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 90
+  "poradi": 91
  },
  {
   "slug": "bodyslim-leginy-s-prositim-bordo",
@@ -2616,7 +2647,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": true,
-  "poradi": 91
+  "poradi": 92
  },
  {
   "slug": "leginy-sponovky-tessuti1",
@@ -2645,7 +2676,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 92
+  "poradi": 93
  },
  {
   "slug": "bodyslim-leginy-s-prositim-stribrna1",
@@ -2672,7 +2703,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": true,
-  "poradi": 93
+  "poradi": 94
  },
  {
   "slug": "bodyslim-leginy-s-narasenim-modra1",
@@ -2698,7 +2729,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": true,
-  "poradi": 94
+  "poradi": 95
  },
  {
   "slug": "bodyslim-leginy-s-narasenim-modra",
@@ -2728,7 +2759,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 95
+  "poradi": 96
  },
  {
   "slug": "bodyslim-leginy-s-prositim-stribrna",
@@ -2757,7 +2788,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 96
+  "poradi": 97
  },
  {
   "slug": "bodyslim-leginy-s-narasenim-stribrna",
@@ -2786,7 +2817,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 97
+  "poradi": 98
  },
  {
   "slug": "panska-mikina-scuba-cerna",
@@ -2813,7 +2844,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 98
+  "poradi": 99
  },
  {
   "slug": "panska-mikina-kardigan-scuba-cerna",
@@ -2839,7 +2870,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 99
+  "poradi": 100
  },
  {
   "slug": "panska-mikina-scuba-cerna1",
@@ -2868,7 +2899,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 100
+  "poradi": 101
  },
  {
   "slug": "panska-mikina-kardigan-scuba-zelena",
@@ -2895,7 +2926,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 101
+  "poradi": 102
  },
  {
   "slug": "panska-mikina-scuba-bezova",
@@ -2923,7 +2954,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 102
+  "poradi": 103
  },
  {
   "slug": "panska-mikina-kardigan-scuba-bezova",
@@ -2951,7 +2982,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 103
+  "poradi": 104
  },
  {
   "slug": "bomber-slimwaist-s-kapuci-tessuti",
@@ -2982,7 +3013,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 104
+  "poradi": 105
  },
  {
   "slug": "bomber-s-kapuci-tessuti",
@@ -3009,7 +3040,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 105
+  "poradi": 106
  },
  {
   "slug": "mikina-punto-pique-seda",
@@ -3035,7 +3066,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 106
+  "poradi": 107
  },
  {
   "slug": "mikina-scuba-cervena",
@@ -3063,7 +3094,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 107
+  "poradi": 108
  },
  {
   "slug": "mikina-scuba-cervena1",
@@ -3091,7 +3122,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 108
+  "poradi": 109
  },
  {
   "slug": "mikina-scuba-cerna",
@@ -3119,7 +3150,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 109
+  "poradi": 110
  },
  {
   "slug": "logotrend-velur-mikina-s-kratkym-rukavam",
@@ -3145,7 +3176,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 110
+  "poradi": 111
  },
  {
   "slug": "logotrend-velur-mikina-se-zipem",
@@ -3172,7 +3203,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 111
+  "poradi": 112
  },
  {
   "slug": "mikina-scuba-bila",
@@ -3200,7 +3231,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 112
+  "poradi": 113
  },
  {
   "slug": "overal-s-kulatym-vystrihem-cerny",
@@ -3227,7 +3258,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 113
+  "poradi": 114
  },
  {
   "slug": "logotrend-velur-overal",
@@ -3253,7 +3284,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 114
+  "poradi": 115
  },
  {
   "slug": "overal-scuba-cerny",
@@ -3282,7 +3313,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 115
+  "poradi": 116
  },
  {
   "slug": "overal-scuba-bily",
@@ -3311,7 +3342,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 116
+  "poradi": 117
  },
  {
   "slug": "overal-scuba-cervene",
@@ -3340,7 +3371,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 117
+  "poradi": 118
  },
  {
   "slug": "overal-scuba-taupe",
@@ -3369,7 +3400,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 118
+  "poradi": 119
  },
  {
   "slug": "overal-krivak-cerny",
@@ -3395,7 +3426,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 119
+  "poradi": 120
  },
  {
   "slug": "overal-s-vystrihem-do-v-cerny",
@@ -3423,7 +3454,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 120
+  "poradi": 121
  },
  {
   "slug": "kratky-overal-cerny",
@@ -3450,7 +3481,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 121
+  "poradi": 122
  },
  {
   "slug": "kratky-overal-cerny1",
@@ -3477,7 +3508,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 122
+  "poradi": 123
  },
  {
   "slug": "overal-krivak-cerveny",
@@ -3504,7 +3535,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 123
+  "poradi": 124
  },
  {
   "slug": "panske-teplaky-scuba-cerne",
@@ -3529,7 +3560,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 124
+  "poradi": 125
  },
  {
   "slug": "panske-kalhoty-scuba-cerne",
@@ -3557,7 +3588,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 125
+  "poradi": 126
  },
  {
   "slug": "panske-teplaky-scuba-zelene",
@@ -3585,7 +3616,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 126
+  "poradi": 127
  },
  {
   "slug": "panske-kalhoty-scuba-zelene",
@@ -3612,7 +3643,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 127
+  "poradi": 128
  },
  {
   "slug": "panske-teplaky-scuba-bezove",
@@ -3639,7 +3670,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 128
+  "poradi": 129
  },
  {
   "slug": "panske-kalhoty-scuba-bezove",
@@ -3668,7 +3699,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 129
+  "poradi": 130
  },
  {
   "slug": "sako-amalfi-se-zipem",
@@ -3696,7 +3727,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 130
+  "poradi": 131
  },
  {
   "slug": "long-vesta-punto-bordo1",
@@ -3720,7 +3751,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 131
+  "poradi": 132
  },
  {
   "slug": "long-vesta-scuba-cerna",
@@ -3744,7 +3775,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 132
+  "poradi": 133
  },
  {
   "slug": "long-sako-scuba-cerne",
@@ -3769,7 +3800,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 133
+  "poradi": 134
  },
  {
   "slug": "sako-scuba-s-kapuci-cerne",
@@ -3796,7 +3827,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 134
+  "poradi": 135
  },
  {
   "slug": "sako-scuba-s-kapuci-cervene",
@@ -3823,7 +3854,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 135
+  "poradi": 136
  },
  {
   "slug": "bodyslim-punto-milano-krivak-zeleny",
@@ -3850,7 +3881,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 136
+  "poradi": 137
  },
  {
   "slug": "bodyslim-punto-milano-krivak-modry",
@@ -3877,7 +3908,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 137
+  "poradi": 138
  },
  {
   "slug": "bodyslim-punto-milano-krivak-sedy",
@@ -3902,7 +3933,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 138
+  "poradi": 139
  },
  {
   "slug": "bodyslim-punto-milano-krivak-ruzovy",
@@ -3927,7 +3958,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 139
+  "poradi": 140
  },
  {
   "slug": "sako-punto-milano-sedy-prouzek1",
@@ -3951,7 +3982,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 140
+  "poradi": 141
  },
  {
   "slug": "sako-punto-milano-s-nabiranym-rukavem-sedy-prouzek11",
@@ -3979,7 +4010,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 141
+  "poradi": 142
  },
  {
   "slug": "sako-punto-milano-s-nabiranym-rukavem-sedy-prouzek1",
@@ -4007,7 +4038,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 142
+  "poradi": 143
  },
  {
   "slug": "sako-punto-milano-s-nabiranym-rukavem-sedy-prouzek",
@@ -4037,7 +4068,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 143
+  "poradi": 144
  },
  {
   "slug": "sako-punto-milano-sedy-prouzek",
@@ -4065,7 +4096,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 144
+  "poradi": 145
  },
  {
   "slug": "saty-denim-s-vazanim",
@@ -4096,7 +4127,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 145
+  "poradi": 146
  },
  {
   "slug": "saty-diorky-s-rasenim",
@@ -4125,7 +4156,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 146
+  "poradi": 147
  },
  {
   "slug": "saty-diorky",
@@ -4154,7 +4185,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 147
+  "poradi": 148
  },
  {
   "slug": "sateen-saty-amalfi",
@@ -4184,7 +4215,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 148
+  "poradi": 149
  },
  {
   "slug": "saty-bodyslim-amati-se-sklady",
@@ -4212,7 +4243,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 149
+  "poradi": 150
  },
  {
   "slug": "saty-bodyslim-tessuti-se-sklady-madeira",
@@ -4240,7 +4271,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 150
+  "poradi": 151
  },
  {
   "slug": "saty-bodyslim-tessuti-se-sklady-denim",
@@ -4268,7 +4299,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 151
+  "poradi": 152
  },
  {
   "slug": "saty-bodyslim-se-sklady-cerne",
@@ -4295,7 +4326,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 152
+  "poradi": 153
  },
  {
   "slug": "kopie-z-sateen-saty-zelene",
@@ -4323,7 +4354,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 153
+  "poradi": 154
  },
  {
   "slug": "sateen-saty-pudrove",
@@ -4352,7 +4383,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 154
+  "poradi": 155
  },
  {
   "slug": "sateen-saty-modre",
@@ -4381,7 +4412,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 155
+  "poradi": 156
  },
  {
   "slug": "sateen-saty-cerne",
@@ -4409,7 +4440,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 156
+  "poradi": 157
  },
  {
   "slug": "saty-bodyslim-diorky",
@@ -4436,7 +4467,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 157
+  "poradi": 158
  },
  {
   "slug": "bodyslim-saty-s-rolakem-bordo12",
@@ -4464,7 +4495,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 158
+  "poradi": 159
  },
  {
   "slug": "bodyslim-saty-s-prustrihem-bordo11",
@@ -4491,7 +4522,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 159
+  "poradi": 160
  },
  {
   "slug": "bodyslim-saty-s-rolakem-bordo111",
@@ -4520,7 +4551,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 160
+  "poradi": 161
  },
  {
   "slug": "bodyslim-saty-s-prustrihem-bordo1",
@@ -4549,7 +4580,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 161
+  "poradi": 162
  },
  {
   "slug": "sukne-bodyslim-tessuti-se-sklady1",
@@ -4578,7 +4609,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 162
+  "poradi": 163
  },
  {
   "slug": "sukne-bodyslim-tessuti-se-sklady-denim",
@@ -4607,7 +4638,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 163
+  "poradi": 164
  },
  {
   "slug": "sukne-bodyslim-tessuti-se-sklady-bordo",
@@ -4635,7 +4666,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 164
+  "poradi": 165
  },
  {
   "slug": "sukne-bodyslim-tessuti-se-sklady",
@@ -4663,7 +4694,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 165
+  "poradi": 166
  },
  {
   "slug": "sukne-tyl-diorka",
@@ -4691,7 +4722,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 166
+  "poradi": 167
  },
  {
   "slug": "kalhoty-denim-s-lemem",
@@ -4722,7 +4753,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 167
+  "poradi": 168
  },
  {
   "slug": "sateen-kalhoty-cherries-s-kapsickou",
@@ -4748,7 +4779,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 168
+  "poradi": 169
  },
  {
   "slug": "kalhoty-tyl-diorky",
@@ -4777,7 +4808,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 169
+  "poradi": 170
  },
  {
   "slug": "kalhoty-amalfi-s-lemem",
@@ -4805,7 +4836,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 170
+  "poradi": 171
  },
  {
   "slug": "kalhoty-tyl-amati-hnede",
@@ -4832,7 +4863,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 171
+  "poradi": 172
  },
  {
   "slug": "sateen-kalhoty-amalfi-s-kapsickou",
@@ -4859,7 +4890,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 172
+  "poradi": 173
  },
  {
   "slug": "sateen-kalhoty-s-upletem-zlute",
@@ -4888,7 +4919,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 173
+  "poradi": 174
  },
  {
   "slug": "kalhoto-teplaky-pique-sede",
@@ -4914,7 +4945,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 174
+  "poradi": 175
  },
  {
   "slug": "kalhoty-rozsirene-pique-sede1",
@@ -4941,7 +4972,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 175
+  "poradi": 176
  },
  {
   "slug": "kalhoty-rozsirene-pique-sede",
@@ -4969,7 +5000,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 176
+  "poradi": 177
  },
  {
   "slug": "kalhoto-teplaky-punto-milano-sedy-prouzek1",
@@ -4998,7 +5029,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 177
+  "poradi": 178
  },
  {
   "slug": "kalhoto-teplaky-punto-milano-cerny-prouzek",
@@ -5027,7 +5058,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 178
+  "poradi": 179
  },
  {
   "slug": "kalhoto-teplaky-punto-milano-svetle-bezove",
@@ -5054,7 +5085,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 179
+  "poradi": 180
  },
  {
   "slug": "sateen-kalhoty-s-upletem-ivory1",
@@ -5084,7 +5115,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 180
+  "poradi": 181
  },
  {
   "slug": "kalhoty-z-madeiry-bile",
@@ -5109,7 +5140,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 181
+  "poradi": 182
  },
  {
   "slug": "kosile-denim-s-knofliky",
@@ -5140,7 +5171,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 182
+  "poradi": 183
  },
  {
   "slug": "kosile-sateen-cherries",
@@ -5166,7 +5197,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 183
+  "poradi": 184
  },
  {
   "slug": "tilko-tyl-diorky",
@@ -5192,7 +5223,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 184
+  "poradi": 185
  },
  {
   "slug": "halenka-amalfi-se-3-4-rukavem",
@@ -5221,7 +5252,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 185
+  "poradi": 186
  },
  {
   "slug": "halenka-amalfi-s-kratkym-rukavem",
@@ -5249,7 +5280,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 186
+  "poradi": 187
  },
  {
   "slug": "tilko-bodyslim-s-kaminkovym-logem-amati-hnede",
@@ -5277,7 +5308,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 187
+  "poradi": 188
  },
  {
   "slug": "tilko-bodyslim-s-kaminkovym-logem-cerne",
@@ -5305,7 +5336,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 188
+  "poradi": 189
  },
  {
   "slug": "halenka-s-nabiranym-rukavem-tessuti-denim",
@@ -5333,7 +5364,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 189
+  "poradi": 190
  },
  {
   "slug": "body-bodyslim-diorko",
@@ -5359,7 +5390,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 190
+  "poradi": 191
  },
  {
   "slug": "halenka-se-zipem-diorka",
@@ -5383,7 +5414,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 191
+  "poradi": 192
  },
  {
   "slug": "halenka-amati-se-zipem-ruzova",
@@ -5407,7 +5438,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 192
+  "poradi": 193
  },
  {
   "slug": "halenka-amati-se-zipem-hneda",
@@ -5431,7 +5462,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 193
+  "poradi": 194
  },
  {
   "slug": "bodyslim-safari-body-na-zip-leopard-hnede",
@@ -5457,7 +5488,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 194
+  "poradi": 195
  },
  {
   "slug": "bodyslim-safari-body-na-zip-leopard-zelene",
@@ -5483,7 +5514,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 195
+  "poradi": 196
  },
  {
   "slug": "bodyslim-top-s-prustrihem-fuksiove111",
@@ -5510,7 +5541,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 196
+  "poradi": 197
  },
  {
   "slug": "logotrend-velur-kratasy",
@@ -5537,7 +5568,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 197
+  "poradi": 198
  },
  {
   "slug": "logotrend-velur-teplaky",
@@ -5565,7 +5596,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 198
+  "poradi": 199
  },
  {
   "slug": "kalhoty-punto-milano-cervene",
@@ -5592,7 +5623,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 199
+  "poradi": 200
  },
  {
   "slug": "body-slim-punto-milano-kalhoty-ruzove",
@@ -5618,7 +5649,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 200
+  "poradi": 201
  },
  {
   "slug": "bodyslim-safari-leginy-leopard-modrocervene",
@@ -5644,7 +5675,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 201
+  "poradi": 202
  },
  {
   "slug": "bodyslim-safari-top-s-prustrihem-leopard-cervenomodry",
@@ -5671,7 +5702,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 202
+  "poradi": 203
  },
  {
   "slug": "bodyslim-safari-top-s-nabiranym-rukavem-leopard-cervenomodry",
@@ -5696,7 +5727,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 203
+  "poradi": 204
  },
  {
   "slug": "bodyslim-safari-body-na-zip-leopard-cervenomodre",
@@ -5723,7 +5754,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 204
+  "poradi": 205
  },
  {
   "slug": "bodyslim-safari-top-s-prustrihem-leopard-zelene",
@@ -5749,7 +5780,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 205
+  "poradi": 206
  },
  {
   "slug": "bodyslim-safari-top-s-nabiranym-rukavem-zeleny",
@@ -5775,7 +5806,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 206
+  "poradi": 207
  },
  {
   "slug": "bodyslim-punto-milano-sako-modre",
@@ -5804,7 +5835,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 207
+  "poradi": 208
  },
  {
   "slug": "bomber-sateen-amati-na-objednavku",
@@ -5829,7 +5860,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 208
+  "poradi": 209
  },
  {
   "slug": "kopie-z-kopie-z-prosivana-vesta-seda-se-vzorem",
@@ -5856,7 +5887,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 209
+  "poradi": 210
  },
  {
   "slug": "kopie-z-prosivana-vesta-cerna",
@@ -5883,7 +5914,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 210
+  "poradi": 211
  },
  {
   "slug": "prosivana-vesta-hneda",
@@ -5910,7 +5941,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 211
+  "poradi": 212
  },
  {
   "slug": "prosivana-vesta-seda",
@@ -5937,7 +5968,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 212
+  "poradi": 213
  },
  {
   "slug": "krivak-punto-milano-pique-kremovy",
@@ -5964,7 +5995,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 213
+  "poradi": 214
  },
  {
   "slug": "krivak-punto-milano-pique-sedy",
@@ -5992,7 +6023,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 214
+  "poradi": 215
  },
  {
   "slug": "kopie-z-sukne-amati-hneda",
@@ -6017,7 +6048,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 215
+  "poradi": 216
  },
  {
   "slug": "sukne-amati-ruzova",
@@ -6042,7 +6073,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 216
+  "poradi": 217
  },
  {
   "slug": "sukne-diorka",
@@ -6067,7 +6098,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 217
+  "poradi": 218
  },
  {
   "slug": "ledvinka-seda-se-vzorem",
@@ -6087,7 +6118,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 218
+  "poradi": 219
  },
  {
   "slug": "ledvinka-cerna-s-potiskem",
@@ -6107,7 +6138,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 219
+  "poradi": 220
  },
  {
   "slug": "ledvinka-seda",
@@ -6127,7 +6158,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 220
+  "poradi": 221
  },
  {
   "slug": "ledvinka-hneda-kostka",
@@ -6150,7 +6181,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 221
+  "poradi": 222
  },
  {
   "slug": "bodyslim-halenka-s-balonovym-rukavem-bordo11",
@@ -6178,7 +6209,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 222
+  "poradi": 223
  },
  {
   "slug": "bodyslim-rolak-bordo11",
@@ -6206,7 +6237,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 223
+  "poradi": 224
  },
  {
   "slug": "bodyslim-top-s-prustrihem-fuksiove11",
@@ -6233,7 +6264,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 224
+  "poradi": 225
  },
  {
   "slug": "bodyslim-halenka-s-balonovym-rukavem-bordo1",
@@ -6262,7 +6293,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 225
+  "poradi": 226
  },
  {
   "slug": "bodyslim-rolak-bordo1",
@@ -6291,7 +6322,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 226
+  "poradi": 227
  },
  {
   "slug": "bodyslim-saty-s-rolakem-bordo11",
@@ -6320,7 +6351,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 227
+  "poradi": 228
  },
  {
   "slug": "bodyslim-saty-s-rolakem-bordo1",
@@ -6350,7 +6381,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 228
+  "poradi": 229
  },
  {
   "slug": "bodyslim-saty-s-rolakem-bordo",
@@ -6380,7 +6411,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 229
+  "poradi": 230
  },
  {
   "slug": "bodyslim-saty-s-prustrihem-bordo",
@@ -6409,7 +6440,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 230
+  "poradi": 231
  },
  {
   "slug": "bodyslim-body-tilko-bordo",
@@ -6438,7 +6469,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 231
+  "poradi": 232
  },
  {
   "slug": "bodyslim-halenka-s-balonovym-rukavem-bordo",
@@ -6468,7 +6499,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 232
+  "poradi": 233
  },
  {
   "slug": "bodyslim-rolak-bordo",
@@ -6496,7 +6527,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 233
+  "poradi": 234
  },
  {
   "slug": "bodyslim-top-s-prustrihem-fuksiove1",
@@ -6525,7 +6556,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 234
+  "poradi": 235
  },
  {
   "slug": "saty-se-zipem-tessuti-cerne",
@@ -6554,7 +6585,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 235
+  "poradi": 236
  },
  {
   "slug": "sako-punto-milano-svetle-bezove",
@@ -6584,7 +6615,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 236
+  "poradi": 237
  },
  {
   "slug": "sateen-kosile-bila",
@@ -6610,7 +6641,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 237
+  "poradi": 238
  },
  {
   "slug": "body-na-zip-tessuti1",
@@ -6638,7 +6669,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 238
+  "poradi": 239
  },
  {
   "slug": "halenka-s-hranatym-vystrihem-tessuti",
@@ -6665,7 +6696,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 239
+  "poradi": 240
  },
  {
   "slug": "halenka-s-balonovym-rukavem-tessuti1",
@@ -6694,7 +6725,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 240
+  "poradi": 241
  },
  {
   "slug": "top-s-prustrihem-tessuti",
@@ -6717,7 +6748,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 241
+  "poradi": 242
  },
  {
   "slug": "tilko-tessuti",
@@ -6740,7 +6771,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 242
+  "poradi": 243
  },
  {
   "slug": "vesta-princess-ivory",
@@ -6771,7 +6802,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 243
+  "poradi": 244
  },
  {
   "slug": "kabat-princess-royal-blue1",
@@ -6802,7 +6833,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 244
+  "poradi": 245
  },
  {
   "slug": "kabat-princess-ivory",
@@ -6833,7 +6864,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 245
+  "poradi": 246
  },
  {
   "slug": "bodyslim-kratasy-biker-stribrna",
@@ -6861,7 +6892,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 246
+  "poradi": 247
  },
  {
   "slug": "bodyslim-kratasy-biker-bronz",
@@ -6888,7 +6919,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 247
+  "poradi": 248
  },
  {
   "slug": "kratasy-biker-cervene",
@@ -6913,7 +6944,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 248
+  "poradi": 249
  },
  {
   "slug": "kratasy-biker-cerne",
@@ -6937,7 +6968,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 249
+  "poradi": 250
  },
  {
   "slug": "kratasy-biker-sv-ruzove",
@@ -6962,7 +6993,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 250
+  "poradi": 251
  },
  {
   "slug": "kratasy-biker-antracit",
@@ -6987,7 +7018,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 251
+  "poradi": 252
  },
  {
   "slug": "kratasy-biker-zlate",
@@ -7013,7 +7044,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 252
+  "poradi": 253
  },
  {
   "slug": "kratasy-biker-khaki",
@@ -7038,7 +7069,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 253
+  "poradi": 254
  },
  {
   "slug": "sateen-kratasy-s-kapsami-lososove-na-objednavku",
@@ -7065,7 +7096,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 254
+  "poradi": 255
  },
  {
   "slug": "sateen-kratasy-s-kapsami-cerne-na-objednavku",
@@ -7093,7 +7124,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 255
+  "poradi": 256
  },
  {
   "slug": "kratasy-burberry",
@@ -7119,7 +7150,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 256
+  "poradi": 257
  },
  {
   "slug": "kratasy-punto-modre-efekt-denim",
@@ -7145,7 +7176,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 257
+  "poradi": 258
  },
  {
   "slug": "kratasy-chanel-ruzove",
@@ -7175,7 +7206,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 258
+  "poradi": 259
  },
  {
   "slug": "kratasy-chanel-bile",
@@ -7205,7 +7236,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 259
+  "poradi": 260
  },
  {
   "slug": "kratasy-scuba-cerne",
@@ -7231,7 +7262,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 260
+  "poradi": 261
  },
  {
   "slug": "kratasy-scuba-bile",
@@ -7259,7 +7290,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 261
+  "poradi": 262
  },
  {
   "slug": "kratasy-scuba-cervene",
@@ -7287,7 +7318,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 262
+  "poradi": 263
  },
  {
   "slug": "kratasy-scuba-taupe",
@@ -7315,7 +7346,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 263
+  "poradi": 264
  },
  {
   "slug": "sateen-kratasy-s-kapsami-zelene",
@@ -7343,7 +7374,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 264
+  "poradi": 265
  },
  {
   "slug": "sateen-kratasy-s-kapsami-lila",
@@ -7372,7 +7403,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 265
+  "poradi": 266
  },
  {
   "slug": "sateen-kratasy-s-kapsami-modre",
@@ -7400,7 +7431,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 266
+  "poradi": 267
  },
  {
   "slug": "sateen-kratasy-s-kapsami-losos",
@@ -7429,7 +7460,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 267
+  "poradi": 268
  },
  {
   "slug": "sateen-kratasy-s-kapsami-ivory",
@@ -7457,7 +7488,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 268
+  "poradi": 269
  },
  {
   "slug": "bodyslim-leginy-s-prositim-lila",
@@ -7487,7 +7518,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 269
+  "poradi": 270
  },
  {
   "slug": "bodyslim-leginy-s-narasenim-bronz",
@@ -7517,7 +7548,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 270
+  "poradi": 271
  },
  {
   "slug": "leginy-kriz-cervene",
@@ -7546,7 +7577,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 271
+  "poradi": 272
  },
  {
   "slug": "leginy-s-prositim-cervene",
@@ -7574,7 +7605,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 272
+  "poradi": 273
  },
  {
   "slug": "leginy-kriz-modre",
@@ -7600,7 +7631,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 273
+  "poradi": 274
  },
  {
   "slug": "kopie-z-leginy-s-prositim-modre",
@@ -7628,7 +7659,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 274
+  "poradi": 275
  },
  {
   "slug": "leginy-kriz-zlate",
@@ -7655,7 +7686,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 275
+  "poradi": 276
  },
  {
   "slug": "leginy-s-prositim-zlate",
@@ -7682,7 +7713,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 276
+  "poradi": 277
  },
  {
   "slug": "bodyslim-leginy-s-prositim-antracit",
@@ -7710,7 +7741,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 277
+  "poradi": 278
  },
  {
   "slug": "leginy-s-logem-antracit",
@@ -7737,7 +7768,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 278
+  "poradi": 279
  },
  {
   "slug": "leginy-s-prositim-khaki1",
@@ -7764,7 +7795,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 279
+  "poradi": 280
  },
  {
   "slug": "leginy-s-prositim-khaki2",
@@ -7790,7 +7821,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 280
+  "poradi": 281
  },
  {
   "slug": "bodyslim-leginy-s-prositim-pudrove",
@@ -7817,7 +7848,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 281
+  "poradi": 282
  },
  {
   "slug": "leginy-kriz-pudrove",
@@ -7845,7 +7876,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 282
+  "poradi": 283
  },
  {
   "slug": "bodyslim-leginy-kriz-fuksiove",
@@ -7873,7 +7904,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 283
+  "poradi": 284
  },
  {
   "slug": "leginy-s-prositim-pudrove",
@@ -7901,7 +7932,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 284
+  "poradi": 285
  },
  {
   "slug": "leginy-sponovky-tessuti",
@@ -7926,7 +7957,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 285
+  "poradi": 286
  },
  {
   "slug": "leginy-prekrizene-tessuti",
@@ -7950,7 +7981,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": true,
-  "poradi": 286
+  "poradi": 287
  },
  {
   "slug": "leginy-zebrovane-svetle-bezove",
@@ -7979,7 +8010,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 287
+  "poradi": 288
  },
  {
   "slug": "leginy-zebrovane-svetle-bezove1",
@@ -8006,7 +8037,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 288
+  "poradi": 289
  },
  {
   "slug": "leginy-zebrovane-khaki",
@@ -8032,7 +8063,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 289
+  "poradi": 290
  },
  {
   "slug": "leginy-zebrovane-khaki1",
@@ -8061,7 +8092,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 290
+  "poradi": 291
  },
  {
   "slug": "leginy-zebrovane-cerne",
@@ -8087,7 +8118,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": true,
-  "poradi": 291
+  "poradi": 292
  },
  {
   "slug": "leginy-zebrovane-cerne1",
@@ -8115,7 +8146,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 292
+  "poradi": 293
  },
  {
   "slug": "saty-amati-bilocerne",
@@ -8143,7 +8174,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 293
+  "poradi": 294
  },
  {
   "slug": "saty-amati-bilocerne1",
@@ -8172,7 +8203,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 294
+  "poradi": 295
  },
  {
   "slug": "saty-amati-bilocerne11",
@@ -8200,7 +8231,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 295
+  "poradi": 296
  },
  {
   "slug": "top-s-prustrihem-amati-cernobily",
@@ -8223,7 +8254,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 296
+  "poradi": 297
  },
  {
   "slug": "halenka-amati-cernobila",
@@ -8252,7 +8283,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 297
+  "poradi": 298
  },
  {
   "slug": "halenka-amati-hneda",
@@ -8281,7 +8312,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 298
+  "poradi": 299
  },
  {
   "slug": "halenka-amati-cerna",
@@ -8309,7 +8340,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 299
+  "poradi": 300
  },
  {
   "slug": "kalhoto-teplaky-punto-milano-sedy-prouzek",
@@ -8338,7 +8369,7 @@
   "novinka": true,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 300
+  "poradi": 301
  },
  {
   "slug": "sako-s-nabiranym-rukavem-a-vystrihem-v-cervene",
@@ -8366,7 +8397,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 301
+  "poradi": 302
  },
  {
   "slug": "bodyslim-punto-milano-sako-zelene",
@@ -8394,7 +8425,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 302
+  "poradi": 303
  },
  {
   "slug": "bodyslim-punto-milano-sako-sede",
@@ -8421,7 +8452,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 303
+  "poradi": 304
  },
  {
   "slug": "bodyslim-punto-milano-sako-ruzove",
@@ -8450,7 +8481,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 304
+  "poradi": 305
  },
  {
   "slug": "sako-burberry",
@@ -8478,7 +8509,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 305
+  "poradi": 306
  },
  {
   "slug": "sako-modre-punto-efekt-denim",
@@ -8506,7 +8537,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 306
+  "poradi": 307
  },
  {
   "slug": "kabatkove-sako-chanel-s-kapsickou-ruzove",
@@ -8533,7 +8564,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 307
+  "poradi": 308
  },
  {
   "slug": "sako-chanel-ruzove",
@@ -8564,7 +8595,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 308
+  "poradi": 309
  },
  {
   "slug": "kopie-z-sako-chanel-bile",
@@ -8595,7 +8626,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 309
+  "poradi": 310
  },
  {
   "slug": "kabatkove-sako-chanel-s-kapsickou-bile",
@@ -8625,7 +8656,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 310
+  "poradi": 311
  },
  {
   "slug": "sako-scuba-cerne",
@@ -8653,7 +8684,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 311
+  "poradi": 312
  },
  {
   "slug": "sako-scuba-bile",
@@ -8681,7 +8712,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 312
+  "poradi": 313
  },
  {
   "slug": "sako-scuba-cervene",
@@ -8709,7 +8740,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 313
+  "poradi": 314
  },
  {
   "slug": "sako-scuba-taupe",
@@ -8737,7 +8768,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 314
+  "poradi": 315
  },
  {
   "slug": "saty-s-potiskem-madeira-lila11",
@@ -8764,7 +8795,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 315
+  "poradi": 316
  },
  {
   "slug": "saty-s-potiskem-madeira-lila1",
@@ -8791,7 +8822,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 316
+  "poradi": 317
  },
  {
   "slug": "saty-s-potiskem-madeira-lila",
@@ -8819,7 +8850,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 317
+  "poradi": 318
  },
  {
   "slug": "saty-madeira-taupe11",
@@ -8846,7 +8877,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 318
+  "poradi": 319
  },
  {
   "slug": "saty-madeira-taupe1",
@@ -8873,7 +8904,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 319
+  "poradi": 320
  },
  {
   "slug": "saty-madeira-taupe",
@@ -8901,7 +8932,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 320
+  "poradi": 321
  },
  {
   "slug": "body-slim-punto-milano-kalhoty-zelene",
@@ -8928,7 +8959,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 321
+  "poradi": 322
  },
  {
   "slug": "kopie-z-body-slim-punto-milano-kalhoty-modre",
@@ -8955,7 +8986,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 322
+  "poradi": 323
  },
  {
   "slug": "body-slim-punto-milano-kalhoty-sede",
@@ -8980,7 +9011,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 323
+  "poradi": 324
  },
  {
   "slug": "kalhoty-z-zebroviny-bile",
@@ -9007,7 +9038,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 324
+  "poradi": 325
  },
  {
   "slug": "sateen-kalhoty-s-upletem-zelene",
@@ -9035,7 +9066,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 325
+  "poradi": 326
  },
  {
   "slug": "sateen-kalhoty-s-upletem-lila",
@@ -9064,7 +9095,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 326
+  "poradi": 327
  },
  {
   "slug": "sateen-kalhoty-s-upletem-modre",
@@ -9093,7 +9124,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 327
+  "poradi": 328
  },
  {
   "slug": "sateen-kalhoty-s-upletem-losos",
@@ -9120,7 +9151,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 328
+  "poradi": 329
  },
  {
   "slug": "sateen-kalhoty-s-upletem-ivory",
@@ -9148,7 +9179,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 329
+  "poradi": 330
  },
  {
   "slug": "kalhoto-teplaky-scuba-cerne",
@@ -9175,7 +9206,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 330
+  "poradi": 331
  },
  {
   "slug": "kalhoto-teplaky-scuba-bile",
@@ -9203,7 +9234,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 331
+  "poradi": 332
  },
  {
   "slug": "kalhoto-teplaky-scuba-taupe",
@@ -9231,7 +9262,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 332
+  "poradi": 333
  },
  {
   "slug": "kalhoto-teplaky-scuba-bile1",
@@ -9259,7 +9290,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 333
+  "poradi": 334
  },
  {
   "slug": "kosile-z-madeiry-fuksia1",
@@ -9287,7 +9318,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 334
+  "poradi": 335
  },
  {
   "slug": "kosile-z-madeiry-fuksia",
@@ -9313,7 +9344,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 335
+  "poradi": 336
  },
  {
   "slug": "kosile-s-sirokymi-rukavy-madeira-fuksia",
@@ -9342,7 +9373,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 336
+  "poradi": 337
  },
  {
   "slug": "bodyslim-tilko-stribrna11",
@@ -9372,7 +9403,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 337
+  "poradi": 338
  },
  {
   "slug": "bodyslim-top-s-nabiranym-rukavem-stribrna11",
@@ -9401,7 +9432,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 338
+  "poradi": 339
  },
  {
   "slug": "bodyslim-body-bronz11",
@@ -9431,7 +9462,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 339
+  "poradi": 340
  },
  {
   "slug": "bodyslim-body-bronz1",
@@ -9459,7 +9490,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 340
+  "poradi": 341
  },
  {
   "slug": "bodyslim-top-s-nabiranym-rukavem-stribrna1",
@@ -9488,7 +9519,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 341
+  "poradi": 342
  },
  {
   "slug": "bodyslim-tilko-stribrna1",
@@ -9516,7 +9547,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 342
+  "poradi": 343
  },
  {
   "slug": "bodyslim-tilko-stribrna",
@@ -9543,7 +9574,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 343
+  "poradi": 344
  },
  {
   "slug": "bodyslim-top-s-nabiranym-rukavem-stribrna",
@@ -9571,7 +9602,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 344
+  "poradi": 345
  },
  {
   "slug": "bodyslim-top-s-nabiranym-rukavem-lila",
@@ -9599,7 +9630,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 345
+  "poradi": 346
  },
  {
   "slug": "bodyslim-body-bronz",
@@ -9627,7 +9658,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 346
+  "poradi": 347
  },
  {
   "slug": "bodyslim-tilko-bronz",
@@ -9655,7 +9686,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 347
+  "poradi": 348
  },
  {
   "slug": "body-na-zip-cervene",
@@ -9682,7 +9713,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 348
+  "poradi": 349
  },
  {
   "slug": "body-na-zip-modre",
@@ -9709,7 +9740,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 349
+  "poradi": 350
  },
  {
   "slug": "body-na-zip-zlate",
@@ -9735,7 +9766,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 350
+  "poradi": 351
  },
  {
   "slug": "sateen-body-lososove-na-objednavku",
@@ -9764,7 +9795,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 351
+  "poradi": 352
  },
  {
   "slug": "sateen-body-cerne-na-objednavku",
@@ -9793,7 +9824,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 352
+  "poradi": 353
  },
  {
   "slug": "body-na-zip-tessuti",
@@ -9822,7 +9853,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 353
+  "poradi": 354
  },
  {
   "slug": "halenka-rolak-s-krajkou-tessuti",
@@ -9852,7 +9883,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 354
+  "poradi": 355
  },
  {
   "slug": "halenka-s-krajkou-tessuti",
@@ -9882,7 +9913,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 355
+  "poradi": 356
  },
  {
   "slug": "halenka-s-prustrihem-tessuti",
@@ -9912,7 +9943,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 356
+  "poradi": 357
  },
  {
   "slug": "halenka-s-balonovym-rukavem-tessuti",
@@ -9941,7 +9972,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 357
+  "poradi": 358
  },
  {
   "slug": "halenka-se-sitkou-tessuti",
@@ -9971,7 +10002,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 358
+  "poradi": 359
  },
  {
   "slug": "halenka-s-balonovym-rukavem-z-zebroviny-svetle-bezova",
@@ -10000,7 +10031,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 359
+  "poradi": 360
  },
  {
   "slug": "halenka-s-nabiranym-rukavem-z-zebroviny-svetle-bezova",
@@ -10028,7 +10059,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 360
+  "poradi": 361
  },
  {
   "slug": "halenka-s-nabiranym-rukavem-z-zebroviny-khaki",
@@ -10056,7 +10087,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 361
+  "poradi": 362
  },
  {
   "slug": "halenka-s-balonovym-rukavem-z-zebroviny-khaki",
@@ -10085,7 +10116,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 362
+  "poradi": 363
  },
  {
   "slug": "halenka-s-balonovym-rukavem-z-zebroviny-cerna",
@@ -10113,7 +10144,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 363
+  "poradi": 364
  },
  {
   "slug": "halenka-s-nabiranym-rukavem-z-zebroviny-cerna",
@@ -10141,7 +10172,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 364
+  "poradi": 365
  },
  {
   "slug": "halenka-z-zebroviny-bila",
@@ -10168,7 +10199,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 365
+  "poradi": 366
  },
  {
   "slug": "tilko-cervene",
@@ -10194,7 +10225,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 366
+  "poradi": 367
  },
  {
   "slug": "tilko-modre",
@@ -10221,7 +10252,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 367
+  "poradi": 368
  },
  {
   "slug": "tilko-zlate",
@@ -10246,7 +10277,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 368
+  "poradi": 369
  },
  {
   "slug": "bodyslim-tilko-fuksiove",
@@ -10272,7 +10303,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 369
+  "poradi": 370
  },
  {
   "slug": "top-s-prustrihem-cerveny",
@@ -10299,7 +10330,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 370
+  "poradi": 371
  },
  {
   "slug": "top-s-nabiranym-rukavem-cerveny",
@@ -10325,7 +10356,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 371
+  "poradi": 372
  },
  {
   "slug": "top-s-prustrihem-modry",
@@ -10352,7 +10383,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 372
+  "poradi": 373
  },
  {
   "slug": "top-s-prustrihem-zlaty",
@@ -10379,7 +10410,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 373
+  "poradi": 374
  },
  {
   "slug": "top-s-nabiranym-rukavem-zlaty",
@@ -10407,7 +10438,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 374
+  "poradi": 375
  },
  {
   "slug": "top-s-nabiranym-rukavem-khaki",
@@ -10433,7 +10464,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 375
+  "poradi": 376
  },
  {
   "slug": "top-s-prustrihem-khaki",
@@ -10456,7 +10487,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 376
+  "poradi": 377
  },
  {
   "slug": "bodyslim-safari-top-s-nabiranym-rukavem-leopard-hnedy",
@@ -10480,7 +10511,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 377
+  "poradi": 378
  },
  {
   "slug": "bodyslim-safari-top-s-prustrihem-leopard-hnedy",
@@ -10506,7 +10537,7 @@
   "novinka": false,
   "vyprodej": true,
   "vyprodano": false,
-  "poradi": 378
+  "poradi": 379
  },
  {
   "slug": "bodyslim-top-s-prustrihem-fuksiove",
@@ -10530,7 +10561,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 379
+  "poradi": 380
  },
  {
   "slug": "sateen-bomber-s-lemem-ivory",
@@ -10559,7 +10590,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 380
+  "poradi": 381
  },
  {
   "slug": "sateen-bomber-s-lemem-losos",
@@ -10586,7 +10617,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 381
+  "poradi": 382
  },
  {
   "slug": "sateen-bomber-s-lemem-modry",
@@ -10615,7 +10646,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 382
+  "poradi": 383
  },
  {
   "slug": "sateen-bomber-s-lemem-lila",
@@ -10644,7 +10675,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 383
+  "poradi": 384
  },
  {
   "slug": "sateen-bomber-s-lemem-zeleny",
@@ -10667,7 +10698,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 384
+  "poradi": 385
  },
  {
   "slug": "cepice-scuba-taupe",
@@ -10692,7 +10723,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 385
+  "poradi": 386
  },
  {
   "slug": "cepice-scuba-cervena",
@@ -10717,7 +10748,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 386
+  "poradi": 387
  },
  {
   "slug": "cepice-scuba-bila",
@@ -10742,7 +10773,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 387
+  "poradi": 388
  },
  {
   "slug": "rukavnik-tessuti",
@@ -10770,7 +10801,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 388
+  "poradi": 389
  },
  {
   "slug": "cepice-scuba-cerna",
@@ -10793,7 +10824,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 389
+  "poradi": 390
  },
  {
   "slug": "krivak-modre-punto-efekt-denim",
@@ -10820,7 +10851,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 390
+  "poradi": 391
  },
  {
   "slug": "krivak-burberry",
@@ -10846,7 +10877,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 391
+  "poradi": 392
  },
  {
   "slug": "sustakove-kimono-cernobile",
@@ -10872,7 +10903,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 392
+  "poradi": 393
  },
  {
   "slug": "sustakove-kimono-cerne",
@@ -10899,7 +10930,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 393
+  "poradi": 394
  },
  {
   "slug": "sateen-satek-cerny",
@@ -10925,7 +10956,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 394
+  "poradi": 395
  },
  {
   "slug": "kopie-z-sateen-saty-cerne-na-objednavku",
@@ -10952,7 +10983,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 395
+  "poradi": 396
  },
  {
   "slug": "sateen-satek-losos",
@@ -10977,7 +11008,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 396
+  "poradi": 397
  },
  {
   "slug": "sateen-saty-lososove-na-objednavku",
@@ -11005,7 +11036,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 397
+  "poradi": 398
  },
  {
   "slug": "ksilt-by-iv-logotrend-cerny",
@@ -11027,7 +11058,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 398
+  "poradi": 399
  },
  {
   "slug": "ksilt-by-iv-logotrend-seda",
@@ -11050,7 +11081,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 399
+  "poradi": 400
  },
  {
   "slug": "ksilt-by-iv-logotrend-se-sitkou-cerna",
@@ -11073,7 +11104,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 400
+  "poradi": 401
  },
  {
   "slug": "ksilt-by-iv-logotrend-se-sitkou-bila",
@@ -11096,7 +11127,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 401
+  "poradi": 402
  },
  {
   "slug": "bodyslim-s-nabiranym-rukavem-fuksiove",
@@ -11122,7 +11153,7 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 402
+  "poradi": 403
  },
  {
   "slug": "kardigan-s-paskem-z-ekokuze",
@@ -11148,6 +11179,6 @@
   "novinka": false,
   "vyprodej": false,
   "vyprodano": false,
-  "poradi": 403
+  "poradi": 404
  }
 ]
