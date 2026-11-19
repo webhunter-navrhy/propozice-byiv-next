@@ -4,7 +4,7 @@
 5:I[6155,["173","static/chunks/173-df6ebad88fd4088a.js","177","static/chunks/app/layout-8c546ddf2bd3e1e0.js"],"default"]
 6:I[5244,[],""]
 7:I[3866,[],""]
-8:I[8173,["173","static/chunks/173-df6ebad88fd4088a.js","653","static/chunks/653-ec9dfe953b5264f5.js","974","static/chunks/app/page-fe63a0badfd035df.js"],""]
+8:I[8173,["173","static/chunks/173-df6ebad88fd4088a.js","653","static/chunks/653-03c7af4104884227.js","974","static/chunks/app/page-fe63a0badfd035df.js"],""]
 9:I[5662,["173","static/chunks/173-df6ebad88fd4088a.js","130","static/chunks/app/kosik/page-73443072e7d80aa8.js"],"default"]
 a:I[6213,[],"OutletBoundary"]
 c:I[6213,[],"MetadataBoundary"]
