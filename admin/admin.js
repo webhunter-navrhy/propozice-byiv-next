@@ -7,7 +7,7 @@ const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '
 const slugify = (s) => String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 70);
 const uid = () => Math.random().toString(36).slice(2, 8);
 const photo = (f) => S.preview[f] || (f.startsWith('img/uploads/') ? CFG.site + f : CFG.site + 'images/produkty/' + f);
-const dirty = () => JSON.stringify(S.F) !== S.snap || Object.keys(S.pending).length > 0;
+const dirty = () => JSON.stringify(S.F) !== S.snap || JSON.stringify(S.Z.BARVY) !== S.zsnap || Object.keys(S.pending).length > 0;
 function toast(t, type = '') { const e = document.createElement('div'); e.className = 'toast ' + type; e.textContent = t; $('#toasts').appendChild(e); setTimeout(() => e.remove(), type === 'err' ? 7000 : 4000); }
 
 const b64e = (bytes) => { let s = ''; bytes = new Uint8Array(bytes); for (let i = 0; i < bytes.length; i += 0x8000) s += String.fromCharCode.apply(null, bytes.subarray(i, i + 0x8000)); return btoa(s); };
@@ -38,11 +38,13 @@ function reauth() {
 
 /* obrázky */
 async function compress(file, max = 1600) {
-  let bmp; try { bmp = await createImageBitmap(file); } catch { throw new Error(`Soubor „${file.name}“ nejde načíst (použijte JPG, PNG nebo WebP).`); }
+  let bmp; try { bmp = await createImageBitmap(file); } catch { await new Promise((r) => setTimeout(r, 400)); try { bmp = await createImageBitmap(file); } catch { throw new Error(`Soubor „${file.name}“ nejde načíst (použijte JPG, PNG nebo WebP).`); } }
   const sc = Math.min(1, max / Math.max(bmp.width, bmp.height)), w = Math.round(bmp.width * sc), h = Math.round(bmp.height * sc);
   const c = document.createElement('canvas'); c.width = w; c.height = h; c.getContext('2d').drawImage(bmp, 0, 0, w, h);
+  if (bmp.close) bmp.close();   // uvolnit paměť – bez toho mobil po ~10 velkých fotkách přestane fotky načítat
   let blob = await new Promise((r) => c.toBlob(r, 'image/webp', 0.82)), ext = 'webp';
   if (!blob || blob.type !== 'image/webp') { blob = await new Promise((r) => c.toBlob(r, 'image/jpeg', 0.86)); ext = 'jpg'; }
+  c.width = c.height = 0;
   return { blob, ext };
 }
 async function upload(file, hint) {
@@ -68,7 +70,8 @@ function watchPublish(sha) {
 async function load() {
   S.Z = JSON.parse(await readFile('_data/zaklad.json'));
   S.F = JSON.parse(await readFile('_data/produkty.json'));
-  S.snap = JSON.stringify(S.F);
+  S.Z.BARVY = S.Z.BARVY || [];
+  S.snap = JSON.stringify(S.F); S.zsnap = JSON.stringify(S.Z.BARVY);
 }
 function validate() {
   const sl = new Set();
@@ -88,9 +91,10 @@ async function save() {
     S.F.forEach((p, i) => { p.poradi = i; });
     const used = JSON.stringify(S.F);
     const files = [{ path: '_data/produkty.json', content: JSON.stringify(S.F, null, 1) + '\n' }];
+    if (JSON.stringify(S.Z.BARVY) !== S.zsnap) files.push({ path: '_data/zaklad.json', content: JSON.stringify(S.Z, null, 1) + '\n' });
     const imgs = Object.keys(S.pending).filter((p) => used.includes(p)); imgs.forEach((p) => files.push({ path: p, b64: S.pending[p] }));
     const sha = await commit(files, 'Produkty (administrace)' + (imgs.length ? ` +${imgs.length} fotek` : ''));
-    imgs.forEach((p) => delete S.pending[p]); S.snap = JSON.stringify(S.F);
+    imgs.forEach((p) => delete S.pending[p]); S.snap = JSON.stringify(S.F); S.zsnap = JSON.stringify(S.Z.BARVY);
     toast('Uloženo. Na webu to bude za 2–3 minuty.', 'ok'); watchPublish(sha);
   } catch (e) { toast('Uložení se nepovedlo: ' + e.message, 'err'); }
   S.saving = false; render();
@@ -139,6 +143,8 @@ function edit(slug) {
     <div><label>Řada</label><select data-k="rada"><option value="">— žádná —</option>${S.Z.xB.map((r) => `<option ${p.rada === r.nazev ? 'selected' : ''}>${esc(r.nazev)}</option>`).join('')}</select></div></div>
     <label>Materiál</label><input data-k="material" value="${esc(p.material || '')}">
     <label>Velikosti</label><div class="chk">${S.Z.LD.map((v) => `<label><input type="checkbox" data-v="${v}" ${p.velikosti.includes(v) ? 'checked' : ''}> ${v}</label>`).join('')}</div>
+    <label>Barvy (zaškrtněte všechny dostupné – zákazník si vybere z nabídky)</label><div class="chk" data-barvy>${S.Z.BARVY.map((b) => `<label><input type="checkbox" data-b="${esc(b)}" ${(p.barvy || []).includes(b) ? 'checked' : ''}> ${esc(b)}</label>`).join('')}</div>
+    <div style="display:flex;gap:.5rem;margin-top:.4rem"><input data-newb placeholder="Nová barva (např. lososová)" style="flex:1"><button class="btn" data-addb type="button">+ Přidat barvu do seznamu</button></div>
     <label>Popis (každý odstavec na nový řádek)</label><textarea data-k="popis">${esc(p.popis.join('\n'))}</textarea>
     <div class="chk"><label><input type="checkbox" data-f="novinka" ${p.novinka ? 'checked' : ''}> Novinka</label><label><input type="checkbox" data-f="vyprodej" ${p.vyprodej ? 'checked' : ''}> Výprodej</label><label><input type="checkbox" data-f="vyprodano" ${p.vyprodano ? 'checked' : ''}> Vyprodáno</label></div></div>
     <div class="card"><h3>Fotografie</h3><p class="hint">První fotka je hlavní. Doporučujeme foto na výšku.</p><div class="fotos">${p.fotky.map((f, i) => `<div><img src="${photo(f)}" alt=""><div class="a">
@@ -155,11 +161,24 @@ function edit(slug) {
     else if (k === 'rada') p.rada = v || null; else p[k] = v; mark();
   }));
   document.querySelectorAll('[data-v]').forEach((el) => el.addEventListener('change', () => { p.velikosti = S.Z.LD.filter((v) => $(`[data-v="${v}"]`).checked); mark(); }));
+  const setB = () => { const a = [...document.querySelectorAll('[data-b]')].filter((c) => c.checked).map((c) => c.dataset.b); if (a.length) p.barvy = a; else delete p.barvy; mark(); };
+  document.querySelectorAll('[data-b]').forEach((el) => el.addEventListener('change', setB));
+  $('[data-addb]').addEventListener('click', () => {
+    const v = $('[data-newb]').value.trim().toLowerCase(); if (!v) return;
+    if (!S.Z.BARVY.some((b) => b.toLowerCase() === v)) S.Z.BARVY.push(v);
+    const real = S.Z.BARVY.find((b) => b.toLowerCase() === v); p.barvy = [...new Set([...(p.barvy || []), real])]; edit(slug);
+  });
   document.querySelectorAll('[data-f]').forEach((el) => el.addEventListener('change', () => { p[el.dataset.f] = el.checked; mark(); }));
   document.querySelectorAll('[data-m]').forEach((b) => b.addEventListener('click', () => { const [i, d] = b.dataset.m.split(':').map(Number); p.fotky.splice(i + d, 0, p.fotky.splice(i, 1)[0]); edit(slug); }));
   document.querySelectorAll('[data-x]').forEach((b) => b.addEventListener('click', () => { p.fotky.splice(+b.dataset.x, 1); edit(slug); }));
   $('[data-up]').addEventListener('change', async (e) => {
-    for (const f of e.target.files) { try { p.fotky.push(await upload(f, p.nazev)); } catch (err) { toast(err.message, 'err'); } }
+    const fl = [...e.target.files]; let ok = 0;
+    for (const [i, f] of fl.entries()) {
+      setPub('busy', `Zpracovávám fotku ${i + 1} z ${fl.length}…`);
+      try { p.fotky.push(await upload(f, p.nazev)); ok++; } catch (err) { toast(err.message, 'err'); }
+      await new Promise((r) => setTimeout(r, 30));
+    }
+    setPub(S.pub[0] === 'busy' ? '' : S.pub[0], 'Web je aktuální'); if (fl.length > 1) toast(`Přidáno ${ok} z ${fl.length} fotek.`, ok === fl.length ? 'ok' : 'err');
     edit(slug);
   });
   $('[data-first]').addEventListener('click', () => { S.F.splice(S.F.indexOf(p), 1); S.F.unshift(p); toast('Přesunuto na začátek.', 'ok'); edit(slug); });

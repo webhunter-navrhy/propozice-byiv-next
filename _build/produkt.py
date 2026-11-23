@@ -112,7 +112,9 @@ def detail_html(p):
         h += '</div></div>'
     else:
         h += '<div style="margin-top:var(--sp-6)"><div id="lbl-barva" style="font-weight:600;font-size:15px">Barva: <span style="font-weight:400">Nevybráno</span></div><select class="barva-vyber" aria-labelledby="lbl-barva"><option value="" selected="">Vyberte možnost</option>'
-        if ' – ' in p['nazev'] and p['nazev'].index(' – ') > 0:
+        if p.get('barvy'):
+            h += ''.join(f'<option value="{e(o)}">{e(o)}</option>' for o in p['barvy'])
+        elif ' – ' in p['nazev'] and p['nazev'].index(' – ') > 0:
             o = p['nazev'].split(' – ', 1)[1]; o = o[:1].upper() + o[1:]
             h += f'<option value="{e(o)}">{e(o)}</option>'
         h += '</select></div>'
