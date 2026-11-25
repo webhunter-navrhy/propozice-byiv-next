@@ -17,6 +17,9 @@ def xB_derive(xB,F,y2):
         kc=collections.Counter(kn[p['kategorie']] for p in P)
         mats=[m for m,_ in mc.most_common(3)]
         e=dict(r)
+        if not P:   # nová řada bez modelů
+            e.update(pocet=0,material=None,materialy=[],kategorie=[],cenaOd=0,cenaDo=0,ukazka='')
+            out.append(e); continue
         e.update(pocet=len(P),material=mats[0] if mats else None,materialy=mats,
           kategorie=[k for k,_ in kc.most_common(3)],cenaOd=min(p['cena'] for p in P),cenaDo=max(p['cena'] for p in P),ukazka=P[0]['slug'])
         out.append(e)

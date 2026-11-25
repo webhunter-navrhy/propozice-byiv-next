@@ -1,315 +1,360 @@
 {
- "LD": [
-  "XXS",
-  "XS",
-  "S",
-  "M",
-  "L",
-  "XL",
-  "UNI"
- ],
- "xB": [
-  {
-   "nazev": "Bodyslim",
-   "pocet": 124,
-   "material": "pružná lycra",
-   "materialy": [
-    "pružná lycra",
-    "76% polyamid, 24% lycra power",
-    "95% polyester, 5% elastan"
-   ],
-   "kategorie": [
-    "Topy a body",
-    "Legíny",
-    "Kraťasy"
-   ],
-   "cenaOd": 995,
-   "cenaDo": 4190,
-   "ukazka": "kalhoty-bodyslim-s-krajkou-rozsirene"
-  },
-  {
-   "nazev": "Scuba",
-   "pocet": 42,
-   "material": "scuba (95% polyester, 5% elastan)",
-   "materialy": [
-    "scuba (95% polyester, 5% elastan)",
-    "schuba (95% polyester, 5% elastan)",
-    "95% polyester, 5% elastan"
-   ],
-   "kategorie": [
-    "Pánská móda",
-    "Saka",
-    "Mikiny"
-   ],
-   "cenaOd": 890,
-   "cenaDo": 4590,
-   "ukazka": "panska-mikina-scuba-cerna"
-  },
-  {
-   "nazev": "Sateen",
-   "pocet": 41,
-   "material": "95% polyester, 5% elastan",
-   "materialy": [
-    "95% polyester, 5% elastan"
-   ],
-   "kategorie": [
-    "Topy a body",
-    "Kraťasy",
-    "Kalhoty a tepláky"
-   ],
-   "cenaOd": 1090,
-   "cenaDo": 4390,
-   "ukazka": "bundicka-slimwaist-sateen-amalfi"
-  },
-  {
-   "nazev": "Punto Milano",
-   "pocet": 27,
-   "material": "95% polyester, 5% elastan",
-   "materialy": [
-    "95% polyester, 5% elastan",
-    "76% polyamid, lycra power 24%"
-   ],
-   "kategorie": [
-    "Kalhoty a tepláky",
-    "Saka",
-    "Overaly"
-   ],
-   "cenaOd": 1295,
-   "cenaDo": 4390,
-   "ukazka": "mikina-punto-pique-seda"
-  },
-  {
-   "nazev": "Tessuti",
-   "pocet": 26,
-   "material": "76% polyamid, 24% lycra power",
-   "materialy": [
-    "76% polyamid, 24% lycra power",
-    "pružná lycra"
-   ],
-   "kategorie": [
-    "Topy a body",
-    "Legíny",
-    "Bundy, křiváky a vesty"
-   ],
-   "cenaOd": 1790,
-   "cenaDo": 3900,
-   "ukazka": "overal-tessuti-se-zipem"
-  },
-  {
-   "nazev": "Denim",
-   "pocet": 19,
-   "material": "95% polyester, 5% elastan",
-   "materialy": [
-    "95% polyester, 5% elastan",
-    "polyester 95%, elastan 5%"
-   ],
-   "kategorie": [
-    "Bundy, křiváky a vesty",
-    "Kabáty",
-    "Topy a body"
-   ],
-   "cenaOd": 2190,
-   "cenaDo": 7990,
-   "ukazka": "kosile-denim-s-knofliky-bezova"
-  },
-  {
-   "nazev": "Amati",
-   "pocet": 18,
-   "material": "76% polyester, elastan 5%",
-   "materialy": [
-    "76% polyester, elastan 5%",
-    "halenka je ušitá z velmi pružné příjemné lycry",
-    "95% polyester, 5% elastan"
-   ],
-   "kategorie": [
-    "Topy a body",
-    "Bundy, křiváky a vesty",
-    "Kraťasy"
-   ],
-   "cenaOd": 1970,
-   "cenaDo": 3590,
-   "ukazka": "bundicka-slimwaist-s-kapuci-amati-ruzova"
-  },
-  {
-   "nazev": "Logotrend",
-   "pocet": 12,
-   "material": "76% polyamid, 24% lycra",
-   "materialy": [
-    "76% polyamid, 24% lycra"
-   ],
-   "kategorie": [
-    "Topy a body",
-    "Doplňky",
-    "Mikiny"
-   ],
-   "cenaOd": 190,
-   "cenaDo": 2513,
-   "ukazka": "gumicka-do-vlasu-logotrend-velur"
-  },
-  {
-   "nazev": "Diorka",
-   "pocet": 11,
-   "material": "95% polyester, 5% elastan",
-   "materialy": [
-    "95% polyester, 5% elastan",
-    "76% polyester, elastan 5%",
-    "95% polyester, elastan 5%"
-   ],
-   "kategorie": [
-    "Bundy, křiváky a vesty",
-    "Topy a body",
-    "Šaty"
-   ],
-   "cenaOd": 1790,
-   "cenaDo": 3390,
-   "ukazka": "bomber-tyl-diorko-s-kapuci"
-  },
-  {
-   "nazev": "Pique",
-   "pocet": 3,
-   "material": "76% polyamid, lycra power 24%",
-   "materialy": [
-    "76% polyamid, lycra power 24%"
-   ],
-   "kategorie": [
-    "Kalhoty a tepláky"
-   ],
-   "cenaOd": 2590,
-   "cenaDo": 2590,
-   "ukazka": "kalhoto-teplaky-pique-sede"
-  },
-  {
-   "nazev": "Manšestr",
-   "pocet": 1,
-   "material": null,
-   "materialy": [],
-   "kategorie": [
-    "Bundy, křiváky a vesty"
-   ],
-   "cenaOd": 5990,
-   "cenaDo": 5990,
-   "ukazka": "mansestr-kimono-bezove"
-  },
-  {
-   "nazev": "Anticamel",
-   "pocet": 1,
-   "material": "76% polyamid, 24% lycra power",
-   "materialy": [
-    "76% polyamid, 24% lycra power"
-   ],
-   "kategorie": [
-    "Legíny"
-   ],
-   "cenaOd": 2390,
-   "cenaDo": 2390,
-   "ukazka": "kopie-z-leginy-anticamel-tessuti-vinove"
-  }
- ],
- "y2": [
-  {
-   "slug": "novinky",
-   "nazev": "Novinky",
-   "pocet": 106
-  },
-  {
-   "slug": "slevy",
-   "nazev": "Slevy",
-   "pocet": 36
-  },
-  {
-   "slug": "inspirace",
-   "nazev": "Inspirace",
-   "pocet": 0
-  },
-  {
-   "slug": "leginy",
-   "nazev": "Legíny",
-   "pocet": 43
-  },
-  {
-   "slug": "overaly",
-   "nazev": "Overaly",
-   "pocet": 11
-  },
-  {
-   "slug": "kalhoty-teplaky",
-   "nazev": "Kalhoty a tepláky",
-   "pocet": 32
-  },
-  {
-   "slug": "saka",
-   "nazev": "Saka",
-   "pocet": 33
-  },
-  {
-   "slug": "mikiny",
-   "nazev": "Mikiny",
-   "pocet": 7
-  },
-  {
-   "slug": "topy-halenky",
-   "nazev": "Topy a body",
-   "pocet": 123
-  },
-  {
-   "slug": "imperial",
-   "nazev": "Imperial",
-   "pocet": 0
-  },
-  {
-   "slug": "komplety",
-   "nazev": "Komplety",
-   "pocet": 0
-  },
-  {
-   "slug": "panske",
-   "nazev": "Pánská móda",
-   "pocet": 12
-  },
-  {
-   "slug": "saty",
-   "nazev": "Šaty",
-   "pocet": 32
-  },
-  {
-   "slug": "kabaty",
-   "nazev": "Kabáty",
-   "pocet": 21
-  },
-  {
-   "slug": "bundy-vesty",
-   "nazev": "Bundy, křiváky a vesty",
-   "pocet": 27
-  },
-  {
-   "slug": "sukne",
-   "nazev": "Sukně",
-   "pocet": 8
-  },
-  {
-   "slug": "kratasy",
-   "nazev": "Kraťasy",
-   "pocet": 41
-  },
-  {
-   "slug": "doplnky",
-   "nazev": "Doplňky",
-   "pocet": 14
-  }
- ],
- "BARVY": [
-  "černá",
-  "čokoládová",
-  "malina",
-  "denim modrá",
-  "šedá",
-  "zlatá",
-  "khaki",
-  "burgundy",
-  "červená",
-  "fuxia",
-  "mint",
-  "žlutá",
-  "bílá"
- ]
+  "LD": [
+    "XXS",
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "UNI"
+  ],
+  "xB": [
+    {
+      "nazev": "Bodyslim",
+      "pocet": 124,
+      "material": "pružná lycra",
+      "materialy": [
+        "pružná lycra",
+        "76% polyamid, 24% lycra power",
+        "95% polyester, 5% elastan"
+      ],
+      "kategorie": [
+        "Topy a body",
+        "Legíny",
+        "Kraťasy"
+      ],
+      "cenaOd": 995,
+      "cenaDo": 4190,
+      "ukazka": "kalhoty-bodyslim-s-krajkou-rozsirene"
+    },
+    {
+      "nazev": "Scuba",
+      "pocet": 42,
+      "material": "scuba (95% polyester, 5% elastan)",
+      "materialy": [
+        "scuba (95% polyester, 5% elastan)",
+        "schuba (95% polyester, 5% elastan)",
+        "95% polyester, 5% elastan"
+      ],
+      "kategorie": [
+        "Pánská móda",
+        "Saka",
+        "Mikiny"
+      ],
+      "cenaOd": 890,
+      "cenaDo": 4590,
+      "ukazka": "panska-mikina-scuba-cerna"
+    },
+    {
+      "nazev": "Sateen",
+      "pocet": 41,
+      "material": "95% polyester, 5% elastan",
+      "materialy": [
+        "95% polyester, 5% elastan"
+      ],
+      "kategorie": [
+        "Topy a body",
+        "Kraťasy",
+        "Kalhoty a tepláky"
+      ],
+      "cenaOd": 1090,
+      "cenaDo": 4390,
+      "ukazka": "bundicka-slimwaist-sateen-amalfi"
+    },
+    {
+      "nazev": "Punto Milano",
+      "pocet": 27,
+      "material": "95% polyester, 5% elastan",
+      "materialy": [
+        "95% polyester, 5% elastan",
+        "76% polyamid, lycra power 24%"
+      ],
+      "kategorie": [
+        "Kalhoty a tepláky",
+        "Saka",
+        "Overaly"
+      ],
+      "cenaOd": 1295,
+      "cenaDo": 4390,
+      "ukazka": "mikina-punto-pique-seda"
+    },
+    {
+      "nazev": "Tessuti",
+      "pocet": 26,
+      "material": "76% polyamid, 24% lycra power",
+      "materialy": [
+        "76% polyamid, 24% lycra power",
+        "pružná lycra"
+      ],
+      "kategorie": [
+        "Topy a body",
+        "Legíny",
+        "Bundy, křiváky a vesty"
+      ],
+      "cenaOd": 1790,
+      "cenaDo": 3900,
+      "ukazka": "overal-tessuti-se-zipem"
+    },
+    {
+      "nazev": "Denim",
+      "pocet": 19,
+      "material": "95% polyester, 5% elastan",
+      "materialy": [
+        "95% polyester, 5% elastan",
+        "polyester 95%, elastan 5%"
+      ],
+      "kategorie": [
+        "Bundy, křiváky a vesty",
+        "Kabáty",
+        "Topy a body"
+      ],
+      "cenaOd": 2190,
+      "cenaDo": 7990,
+      "ukazka": "kosile-denim-s-knofliky-bezova"
+    },
+    {
+      "nazev": "Amati",
+      "pocet": 18,
+      "material": "76% polyester, elastan 5%",
+      "materialy": [
+        "76% polyester, elastan 5%",
+        "halenka je ušitá z velmi pružné příjemné lycry",
+        "95% polyester, 5% elastan"
+      ],
+      "kategorie": [
+        "Topy a body",
+        "Bundy, křiváky a vesty",
+        "Kraťasy"
+      ],
+      "cenaOd": 1970,
+      "cenaDo": 3590,
+      "ukazka": "bundicka-slimwaist-s-kapuci-amati-ruzova"
+    },
+    {
+      "nazev": "Logotrend",
+      "pocet": 12,
+      "material": "76% polyamid, 24% lycra",
+      "materialy": [
+        "76% polyamid, 24% lycra"
+      ],
+      "kategorie": [
+        "Topy a body",
+        "Doplňky",
+        "Mikiny"
+      ],
+      "cenaOd": 190,
+      "cenaDo": 2513,
+      "ukazka": "gumicka-do-vlasu-logotrend-velur"
+    },
+    {
+      "nazev": "Diorka",
+      "pocet": 11,
+      "material": "95% polyester, 5% elastan",
+      "materialy": [
+        "95% polyester, 5% elastan",
+        "76% polyester, elastan 5%",
+        "95% polyester, elastan 5%"
+      ],
+      "kategorie": [
+        "Bundy, křiváky a vesty",
+        "Topy a body",
+        "Šaty"
+      ],
+      "cenaOd": 1790,
+      "cenaDo": 3390,
+      "ukazka": "bomber-tyl-diorko-s-kapuci"
+    },
+    {
+      "nazev": "Pique",
+      "pocet": 3,
+      "material": "76% polyamid, lycra power 24%",
+      "materialy": [
+        "76% polyamid, lycra power 24%"
+      ],
+      "kategorie": [
+        "Kalhoty a tepláky"
+      ],
+      "cenaOd": 2590,
+      "cenaDo": 2590,
+      "ukazka": "kalhoto-teplaky-pique-sede"
+    },
+    {
+      "nazev": "Manšestr",
+      "pocet": 1,
+      "material": null,
+      "materialy": [],
+      "kategorie": [
+        "Bundy, křiváky a vesty"
+      ],
+      "cenaOd": 5990,
+      "cenaDo": 5990,
+      "ukazka": "mansestr-kimono-bezove"
+    },
+    {
+      "nazev": "Anticamel",
+      "pocet": 1,
+      "material": "76% polyamid, 24% lycra power",
+      "materialy": [
+        "76% polyamid, 24% lycra power"
+      ],
+      "kategorie": [
+        "Legíny"
+      ],
+      "cenaOd": 2390,
+      "cenaDo": 2390,
+      "ukazka": "kopie-z-leginy-anticamel-tessuti-vinove"
+    },
+    {
+      "nazev": "Teplákovina IN DENIM",
+      "pocet": 0,
+      "material": null,
+      "materialy": [],
+      "kategorie": [],
+      "cenaOd": 0,
+      "cenaDo": 0,
+      "ukazka": ""
+    },
+    {
+      "nazev": "LOGOTREND lycra",
+      "pocet": 0,
+      "material": null,
+      "materialy": [],
+      "kategorie": [],
+      "cenaOd": 0,
+      "cenaDo": 0,
+      "ukazka": ""
+    },
+    {
+      "nazev": "Náš PUSH-UP efekt",
+      "pocet": 0,
+      "material": null,
+      "materialy": [],
+      "kategorie": [],
+      "cenaOd": 0,
+      "cenaDo": 0,
+      "ukazka": ""
+    }
+  ],
+  "y2": [
+    {
+      "slug": "novinky",
+      "nazev": "Novinky",
+      "pocet": 106
+    },
+    {
+      "slug": "slevy",
+      "nazev": "Slevy",
+      "pocet": 36
+    },
+    {
+      "slug": "inspirace",
+      "nazev": "Inspirace",
+      "pocet": 0
+    },
+    {
+      "slug": "teplakovina-in-denim",
+      "nazev": "Teplákovina IN DENIM",
+      "pocet": 0
+    },
+    {
+      "slug": "logotrend-lycra",
+      "nazev": "LOGOTREND lycra",
+      "pocet": 0
+    },
+    {
+      "slug": "nas-push-up-efekt",
+      "nazev": "Náš PUSH-UP efekt",
+      "pocet": 0
+    },
+    {
+      "slug": "leginy",
+      "nazev": "Legíny",
+      "pocet": 43
+    },
+    {
+      "slug": "overaly",
+      "nazev": "Overaly",
+      "pocet": 11
+    },
+    {
+      "slug": "kalhoty-teplaky",
+      "nazev": "Kalhoty a tepláky",
+      "pocet": 32
+    },
+    {
+      "slug": "saka",
+      "nazev": "Saka",
+      "pocet": 33
+    },
+    {
+      "slug": "mikiny",
+      "nazev": "Mikiny",
+      "pocet": 7
+    },
+    {
+      "slug": "topy-halenky",
+      "nazev": "Topy a body",
+      "pocet": 123
+    },
+    {
+      "slug": "imperial",
+      "nazev": "Imperial",
+      "pocet": 0
+    },
+    {
+      "slug": "komplety",
+      "nazev": "Komplety",
+      "pocet": 0
+    },
+    {
+      "slug": "panske",
+      "nazev": "Pánská móda",
+      "pocet": 12
+    },
+    {
+      "slug": "saty",
+      "nazev": "Šaty",
+      "pocet": 32
+    },
+    {
+      "slug": "kabaty",
+      "nazev": "Kabáty",
+      "pocet": 21
+    },
+    {
+      "slug": "bundy-vesty",
+      "nazev": "Bundy, křiváky a vesty",
+      "pocet": 27
+    },
+    {
+      "slug": "sukne",
+      "nazev": "Sukně",
+      "pocet": 8
+    },
+    {
+      "slug": "kratasy",
+      "nazev": "Kraťasy",
+      "pocet": 41
+    },
+    {
+      "slug": "doplnky",
+      "nazev": "Doplňky",
+      "pocet": 14
+    }
+  ],
+  "BARVY": [
+    "černá",
+    "čokoládová",
+    "malina",
+    "denim modrá",
+    "šedá",
+    "zlatá",
+    "khaki",
+    "burgundy",
+    "červená",
+    "fuxia",
+    "mint",
+    "žlutá",
+    "bílá"
+  ]
 }

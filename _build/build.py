@@ -160,22 +160,24 @@ def _match(s, a):
 # ---------- 5. řady, o nás ----------
 def rady():
     pg = Page('rady')
+    on_page = set(re.findall(r'<div class="rada" id="[^"]*">.*?<b>([^<]+)</b>', ''.join(pg.parts[0::2])))
+    XBP = [r for r in XB if r['nazev'] in on_page and r['pocet'] > 0]
     def line(r):
         pc = kc(r['cenaOd']) if r['cenaOd'] == r['cenaDo'] else f'{kc(r["cenaOd"])} – {kc(r["cenaDo"])}'
         return pl(r['pocet'], 'model', 'modely', 'modelů'), pc
     ph = re.compile(r'(<span class="tnum">)[^<]*?<!-- --> ·<!-- --> <!-- -->[^<]*(</span>)')
-    ms = ph.findall(''.join(pg.parts[0::2])); assert len(ms) == len(XB), (len(ms), len(XB))
-    it = iter(XB)
+    ms = ph.findall(''.join(pg.parts[0::2])); assert len(ms) == len(XBP), (len(ms), len(XBP))
+    it = iter(XBP)
     def sub_h(m):
         a, b = line(next(it)); return f'{m.group(1)}{a}<!-- --> ·<!-- --> <!-- -->{b}{m.group(2)}'
     for i in range(0, len(pg.parts), 2): pg.parts[i] = ph.sub(sub_h, pg.parts[i])
     pr = re.compile(r'(\["\$","span",null,\{"className":"tnum","children":\[)"[^"]*"(," ·"," ",)"[^"]*"(\]\}\])')
-    it = iter(XB); n = [0]
+    it = iter(XBP); n = [0]
     def sub_r(m):
         a, b = line(next(it)); n[0] += 1
         return f'{m.group(1)}{json.dumps(a, ensure_ascii=False)}{m.group(2)}{json.dumps(b, ensure_ascii=False)}{m.group(3)}'
     for r in pg.rows: r[2] = pr.sub(sub_r, r[2])
-    assert n[0] == len(XB), n
+    assert n[0] == len(XBP), n
     pg.save()
     pg = Page('o-nas')
     for i in range(0, len(pg.parts), 2): pg.parts[i] = re.sub(r'(<b class="tnum">)\d+(<!-- --> modelů</b>)', lambda m: f'{m.group(1)}{len(F)}{m.group(2)}', pg.parts[i])

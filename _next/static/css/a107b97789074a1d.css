@@ -155,3 +155,4 @@
 @media (max-width:959px) and (min-width:901px){.nav{gap:10px}.nav a{font-size:13px}.znacka b{font-size:18px}.hlavicka__akce a[href^="tel"]{display:none}}
 .barva-vyber{display:block;margin-top:var(--sp-2);width:100%;max-width:320px;padding:10px 12px;font:inherit;font-size:15px;color:var(--ink);background:#fff;border:2px solid var(--line);border-radius:var(--r-md)}
 .barva-vyber:focus{outline:none;border-color:var(--brand)}
+.nav__kolekce{position:relative;display:flex;align-items:center}.nav__podmenu{display:none;position:absolute;top:100%;left:-14px;flex-direction:column;min-width:250px;padding:8px 0;background:var(--bg);border:1px solid var(--line);border-radius:var(--r-md);box-shadow:var(--elev-2);z-index:var(--z-nav)}.nav__kolekce:hover .nav__podmenu,.nav__kolekce:focus-within .nav__podmenu{display:flex}.nav .nav__podmenu a{padding:9px 18px;border-bottom:0}.nav .nav__podmenu a:hover{background:var(--bg-2)}

@@ -13,7 +13,7 @@ VIRT = {
     'novinky': lambda p: p['novinka'],
     'slevy': lambda p: p['vyprodej'] or (p['puvodni'] is not None and p['puvodni'] > p['cena']),
 }
-PRIPRAVUJEME = ('inspirace', 'imperial', 'komplety')
+PRIPRAVUJEME = ('inspirace', 'imperial', 'komplety', 'teplakovina-in-denim', 'logotrend-lycra', 'nas-push-up-efekt')
 
 def produkty_kategorie(Fz, kat):
     if not kat: r = list(Fz)
