@@ -236,7 +236,13 @@
   "puvodni": null,
   "kategorie": "topy-halenky",
   "rada": null,
-  "velikosti": [],
+  "velikosti": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
   "material": "Polyamid 86%, Lycra power 24%",
   "popis": [
    "Tílko LOGOTREND peplum z vysoce kvalitní lycry. Má široká ramínka. Krásné zvýraznění pasu gumou BY IV."
