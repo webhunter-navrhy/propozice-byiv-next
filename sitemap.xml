@@ -181,6 +181,11 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://byiv.cz/produkt/vesta-princess-denim/</loc>
+<changefreq>weekly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
 <loc>https://byiv.cz/produkt/halenka-z-zebroviny-3-4-rukav/</loc>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
