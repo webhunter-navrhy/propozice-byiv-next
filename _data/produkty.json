@@ -172,7 +172,13 @@
   "puvodni": null,
   "kategorie": "kalhoty-teplaky",
   "rada": null,
-  "velikosti": [],
+  "velikosti": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
   "material": "Polyester 95%, Elastan 5%",
   "popis": [
    "Elegantní kalhoty PUNTO Milano. Široké kalhoty s puky a kapsami. Pružná velmi příjemná teplákovina. Zeštíhlující pas. Přizpůsobí se krásně postavě."
