@@ -138,7 +138,13 @@
   "puvodni": null,
   "kategorie": "saka",
   "rada": null,
-  "velikosti": [],
+  "velikosti": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
   "material": "Polyester 95%, Elastan 5%",
   "popis": [
    "Elegantní sako PUNTO Milano. Vypasované sako z pružné velmi příjemné teplákoviny. Zeštíhlující pas. Falešné kapsy. Krásně se přizpůsobí postavě."
