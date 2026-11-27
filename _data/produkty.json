@@ -106,7 +106,13 @@
   "puvodni": null,
   "kategorie": "kalhoty-teplaky",
   "rada": null,
-  "velikosti": [],
+  "velikosti": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
   "material": "Polyester 95 %, Elastan5 % ",
   "popis": [
    "Dámské kalhoto/tepláky s kapsami a stahujícím pasem. Jsou ušité tak, aby lichotily každé postavě."
