@@ -204,7 +204,13 @@
   "puvodni": null,
   "kategorie": "sukne",
   "rada": null,
-  "velikosti": [],
+  "velikosti": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
   "material": "Polyamid 86%, Lycra power 24%",
   "popis": [
    "Sukně LOGOTREND z vysoce kvalitní lycry. Má dvojitý zeštíhlující pas a ležérní dvojitý volán. Sukni krásně zdobí guma BY IV."
